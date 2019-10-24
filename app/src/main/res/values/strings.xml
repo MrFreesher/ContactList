@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DualPanelContactApp</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="contactActivity_title">Contact List</string>
+    <string name="detailActivity_title">Details</string>
+</resources>
